@@ -1,26 +1,14 @@
 @font-face {
-  font-family: "SegoeUI-Light";
-  font-style: normal;
-  font-weight: 300;
-  src: url("../fonts/segoeuil.ttf") format("truetype");
-}
-@font-face {
-  font-family: "SegoeUI-Black";
-  font-style: normal;
-  font-weight: 900;
-  src: url("../fonts/seguibl.ttf") format("truetype");
-}
-@font-face {
-  font-family: "Arial-Regular";
+  font-family: "Calibri-Regular";
   font-style: normal;
   font-weight: 400;
-  src: url("../fonts/ARIBL0.ttf") format("truetype");
+  src: url("../fonts/Calibri.ttf") format("truetype");
 }
 @font-face {
-  font-family: "Arial-Bold";
+  font-family: "Bahnschrift-Bold";
   font-style: normal;
   font-weight: 700;
-  src: url("../fonts/FontsFree-Net-arial-bold.ttf") format("truetype");
+  src: url("../fonts/BAHNSCHRIFT.TTF");
 }
 
 /* The following line is used to measure usage of this code in production. For more info see our usage billing page */

@@ -2,116 +2,103 @@
 
 .web-1920-1 {
   background-color: #000000;
-  height: 1080px;
+  height: 518px;
   overflow: hidden;
   overflow-x: hidden;
   position: relative;
-  width: 1920px;
+  width: 1358px;
 }
 
 .web-1920-1 .lofo-HlzXCz {
   background-color: transparent;
-  height: 194px;
-  left: 768px;
+  height: 101px;
+  left: 612px;
   object-fit: cover;
   position: absolute;
-  top: 74px;
-  width: 259px;
+  top: 0px;
+  width: 134px;
 }
 
-.web-1920-1 .seja-bem-vindo-enth-HlzXCz {
-  background-color: transparent;
-  height: auto;
-  left: 364px;
-  letter-spacing: 0.00px;
-  line-height: 25px;
-  position: absolute;
-  text-align: left;
-  top: 326px;
-  white-space: nowrap;
-  width: auto;
-}
-
-.web-1920-1 .ol-todos-HlzXCz {
-  background-color: transparent;
-  height: auto;
-  left: 364px;
-  letter-spacing: 0.00px;
-  line-height: 25px;
-  position: absolute;
-  text-align: left;
-  top: 270px;
-  white-space: nowrap;
-  width: auto;
-}
-
-.web-1920-1 .caso-voc-queira-est-HlzXCz {
+.web-1920-1 .nesse-exato-momento-HlzXCz {
   background-color: transparent;
   color: var(--white);
-  font-family: var(--font-family-arial);
+  font-family: var(--font-family-calibri-regular);
   font-size: var(--font-size-m);
+  font-style: normal;
   font-weight: 400;
   height: auto;
-  left: 357px;
+  left: 360px;
   letter-spacing: 0.00px;
-  line-height: 25px;
+  line-height: 15px;
   position: absolute;
   text-align: left;
-  top: 416px;
+  top: 124px;
   white-space: nowrap;
   width: auto;
 }
 
-.web-1920-1 .span0-Cxbv2D {
-}
-
-.web-1920-1 .span1-Cxbv2D {
-  font-family: var(--font-family-arial-bold);
-  font-style: normal;
-  font-weight: 700;
-}
-
-.web-1920-1 .span2-Cxbv2D {
-}
-
-.web-1920-1 .assinado-ceo-marcos-souzza-HlzXCz {
+.web-1920-1 .icons8-discord-150-HlzXCz {
   background-color: transparent;
-  color: var(--white);
-  font-family: var(--font-family-arial);
-  font-size: var(--font-size-m);
-  font-weight: 300;
-  height: auto;
-  left: 357px;
-  letter-spacing: 0.00px;
-  line-height: 25px;
-  position: absolute;
-  text-align: left;
-  top: 531px;
-  white-space: nowrap;
-  width: auto;
-}
-
-.web-1920-1 .span0-NGYwbl {
-}
-
-.web-1920-1 .span1-NGYwbl {
-  font-family: var(--font-family-segoeui-black);
-  font-style: normal;
-  font-weight: 900;
-}
-
-.web-1920-1 .span2-NGYwbl {
-  font-family: var(--font-family-segoeui-light);
-  font-style: normal;
-}
-
-.web-1920-1 .discord-HlzXCz {
-  background-color: transparent;
-  cursor: pointer;
-  height: 33px;
-  left: 1337px;
+  height: 15px;
+  left: 640px;
   object-fit: cover;
   position: absolute;
-  top: 603px;
-  width: 43px;
+  top: 245px;
+  width: 21px;
+}
+
+.web-1920-1 .icons8-whatsapp-HlzXCz {
+  background-color: transparent;
+  height: 18px;
+  left: 671px;
+  object-fit: cover;
+  position: absolute;
+  top: 244px;
+  width: 18px;
+}
+
+.web-1920-1 .icon-paper_plane-HlzXCz {
+  background-color: transparent;
+  height: 15px;
+  left: 698px;
+  object-fit: cover;
+  position: absolute;
+  top: 246px;
+  width: 17px;
+}
+
+.web-1920-1 .seja-bem-vindo-a-enth-HlzXCz {
+  background-color: transparent;
+  color: var(--white);
+  font-family: var(--font-family-bahnschrift-bold);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 700;
+  height: auto;
+  left: 360px;
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  text-align: left;
+  top: 92px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.web-1920-1 .caso-voc-queira-part-HlzXCz {
+  background-color: transparent;
+  color: var(--white);
+  font-family: var(--font-family-calibri-regular);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 360px;
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  text-align: left;
+  top: 190px;
+  white-space: nowrap;
+  width: auto;
 }

@@ -1,18 +1,8 @@
 :root { 
   --white: #ffffff;
  
-  --font-size-m: 25px;
+  --font-size-m: 15px;
  
-  --font-family-arial: "Arial", Helvetica;
-  --font-family-arial-bold: "Arial-Bold", Helvetica;
-  --font-family-arial-regular: "Arial-Regular", Helvetica;
-  --font-family-segoeui-black: "SegoeUI-Black", Helvetica;
-  --font-family-segoeui-light: "SegoeUI-Light", Helvetica;
-}
-.arial-regular-normal-white-25px {
-  color: var(--white);
-  font-family: var(--font-family-arial-regular);
-  font-size: var(--font-size-m);
-  font-style: normal;
-  font-weight: 400;
+  --font-family-bahnschrift-bold: "Bahnschrift-Bold", Helvetica;
+  --font-family-calibri-regular: "Calibri-Regular", Helvetica;
 }
