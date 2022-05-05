@@ -1,0 +1,117 @@
+/* screen - web-1920-1 */
+
+.web-1920-1 {
+  background-color: #000000;
+  height: 1080px;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 1920px;
+}
+
+.web-1920-1 .lofo-HlzXCz {
+  background-color: transparent;
+  height: 194px;
+  left: 768px;
+  object-fit: cover;
+  position: absolute;
+  top: 74px;
+  width: 259px;
+}
+
+.web-1920-1 .seja-bem-vindo-enth-HlzXCz {
+  background-color: transparent;
+  height: auto;
+  left: 364px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: 326px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.web-1920-1 .ol-todos-HlzXCz {
+  background-color: transparent;
+  height: auto;
+  left: 364px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: 270px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.web-1920-1 .caso-voc-queira-est-HlzXCz {
+  background-color: transparent;
+  color: var(--white);
+  font-family: var(--font-family-arial);
+  font-size: var(--font-size-m);
+  font-weight: 400;
+  height: auto;
+  left: 357px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: 416px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.web-1920-1 .span0-Cxbv2D {
+}
+
+.web-1920-1 .span1-Cxbv2D {
+  font-family: var(--font-family-arial-bold);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.web-1920-1 .span2-Cxbv2D {
+}
+
+.web-1920-1 .assinado-ceo-marcos-souzza-HlzXCz {
+  background-color: transparent;
+  color: var(--white);
+  font-family: var(--font-family-arial);
+  font-size: var(--font-size-m);
+  font-weight: 300;
+  height: auto;
+  left: 357px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: 531px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.web-1920-1 .span0-NGYwbl {
+}
+
+.web-1920-1 .span1-NGYwbl {
+  font-family: var(--font-family-segoeui-black);
+  font-style: normal;
+  font-weight: 900;
+}
+
+.web-1920-1 .span2-NGYwbl {
+  font-family: var(--font-family-segoeui-light);
+  font-style: normal;
+}
+
+.web-1920-1 .discord-HlzXCz {
+  background-color: transparent;
+  cursor: pointer;
+  height: 33px;
+  left: 1337px;
+  object-fit: cover;
+  position: absolute;
+  top: 603px;
+  width: 43px;
+}
